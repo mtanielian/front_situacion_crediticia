@@ -1,14 +1,9 @@
-## Servidores
-- VPN __webmuni__
-- ip privada: __172.16.158.198__
-- ip pública: __186.33.219.133__
-- Accesos usuarios acoconier/halvarado/jdocile/mtanielian/pchacon
-
 ### DEMO
 - url https://demo-microcreditos.paisdigital.modernizacion.gob.ar/public/
-- repositorio: https://repositorio.paisdigital.modernizacion.gob.ar/desarrolloPD/micro-creditos/situacion-crediticia
-- git pull en `/var/www/html/situacion-crediticia`
 - Compilar `npm run build`
+
+### USUARIO DE PRUEBA
+20258663552
 
 ## Build Setup
 
@@ -25,10 +20,6 @@
 ### Instalación
 
 1. Descargar/Clonar el código de la aplicación
-
-2. Cambiar los datos de configuración en el archivo:
-
-    - /src/constants.js.dist
 
 Es necesario contar con los datos de conexión a [PAEC](https://autenticar.gob.ar) para poder activar la verificacion de personas en caso de querer generar un reclamo sobre la información que se muestra.
 
