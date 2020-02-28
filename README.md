@@ -1,6 +1,5 @@
 ### DEMO
 - url https://demo-microcreditos.paisdigital.modernizacion.gob.ar/public/
-- Compilar `npm run build`
 
 ### USUARIO DE PRUEBA
 20258663552
